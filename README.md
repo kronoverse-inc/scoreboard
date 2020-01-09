@@ -1,5 +1,5 @@
 # Scoreboard Sample
-Create a sample scoreboard application to demonstrate proficiency in web development. Example scores and stats can be of any sport/game or other example scenario and can have any UI elements you desire. Data can be hard-coded, random, or externally sourced. Code is more important than appearance, but app should include examples both styling and scripting. App should be a single-page web app with the following requirements:
+Create a sample scoreboard application to demonstrate proficiency in web development. Example scores and stats can be of any sport/game or other example scenario and can have any UI elements you desire. Data can be hard-coded, random, or externally sourced. Code is more important than appearance, but app should include examples both styling and scripting. Examply screenshots are included to illustrate an example scenario, but don't worry about trying to recreate them exactly. App should be a single-page web app with the following requirements:
 
 ## View - Scores
 Load and display a list of scores of recent games. Example should illustrate scores updating and new games added periodically. Clicking on a game should bring you to Details view.
